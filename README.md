@@ -2,6 +2,8 @@
 
 AI-DRIVEN IDS is a Python-based Intrusion Detection and Security Information and Event Management project that uses machine learning to classify network traffic, assign severity levels, and help monitor suspicious activity. The project includes model loading, severity mapping, dashboard filtering, and multiple levels of testing to validate system behavior.
 
+Project report: https://drive.google.com/file/d/1Q5EiIabekDSq73snQE76lWeYs8p6nac3/view?usp=sharing
+
 ## Features
 
 - Network traffic classification using a trained machine learning model.
@@ -100,4 +102,5 @@ The IDS system should:
 
 ARMANDO NELVIO MOIANE and
 ADELAIDE FELICIANO LAMPIAO MIGUEL
+Project report: https://drive.google.com/file/d/1Q5EiIabekDSq73snQE76lWeYs8p6nac3/view?usp=sharing
 
